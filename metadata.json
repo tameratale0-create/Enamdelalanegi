@@ -1,0 +1,6 @@
+{
+  "name": "ደላላ ነኝ",
+  "description": "የቤት፣ የመኪና፣ የቦታ ሽያጭና ኪራይ የሚያገናኝ ዘመናዊ መተግበሪያ - ከምዝገባ እስከ አስተማማኝ ክፍያ፣ የይዞታ ማረጋገጫ፣ የዋጋ ተመንና የድምጽ መልእክት መለዋወጫ።",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
